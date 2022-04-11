@@ -25,6 +25,17 @@ _Oscar Wilde — 'I'm a man of simple tastes. I'm always satisfied with the best
  - oh-my-zsh - a great zsh config/theme
  - terminator - a great linux terminal
 
+### Linux Server Software
+
+ - vaultwarden - Bitwarden clone 
+ - seafile - A better dropbox self hosted
+ - gogs - A self hosted github
+ - gitea - Another self hosted github
+ - dockuwiki - A great wiki software
+
+### Coding
+ - react native - Imho one of the best ways to write multios apps for mobile at the moment
+
 ### Games
 
  -  mume - one of the best MUDs ever created
