@@ -12,7 +12,7 @@ _Oscar Wilde — 'I'm a man of simple tastes. I'm always satisfied with the best
  - wox - Alfred clone for windows 
  - chocolatey - Windows packet manager
  - scoop - Windows user packer manager
- - Windows Terminal (Preview) - good windows terminal
+ - windows terminal (preview) - a decent windows terminal
  - vscode - Decent devoloping environment (Make sure you use vim settings)
  - oh-my-posh - A powershell prompt
 
@@ -23,6 +23,7 @@ _Oscar Wilde — 'I'm a man of simple tastes. I'm always satisfied with the best
  - tmux - great terminal switcher
  - vim - the best editor ever created ;)
  - oh-my-zsh - a great zsh config/theme
+ - terminator - a great linux terminal
 
 ### Games
 
