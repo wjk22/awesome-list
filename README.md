@@ -32,9 +32,9 @@ _Oscar Wilde — 'I'm a man of simple tastes. I'm always satisfied with the best
 
 ### Crypto Currencies
 
-radix (xrd) - promising new layer one with a good programming language and comunity
+ - radix (xrd) - promising new layer one with a good programming language and comunity
 
 ### Places to visit
 
-vilnius - one of my favorite towns in Europe
-tallinn - another of my favourite towns in Europe
+ - vilnius - one of my favorite towns in Europe
+ - tallinn - another of my favourite towns in Europe
