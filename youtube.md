@@ -9,9 +9,9 @@ _Oscar Wilde — 'I'm a man of simple tastes. I'm always satisfied with the best
 
 ### Motorcycle
 
- - Fornine - https://www.youtube.com/c/FortNine
+ - Fornine - https://www.youtube.com/c/FortNine Imho the best motorcycle channel on youtube
 
-### Hackiing
+### Hacking
 
  - Hak5  - https://www.youtube.com/c/hak5
 
