@@ -28,6 +28,7 @@ _Oscar Wilde — 'I'm a man of simple tastes. I'm always satisfied with the best
 
 ### Linux Server Software
 
+ - docker 
  - vaultwarden - Bitwarden clone 
  - seafile - A better dropbox self hosted
  - gogs - A self hosted github
@@ -35,6 +36,8 @@ _Oscar Wilde — 'I'm a man of simple tastes. I'm always satisfied with the best
  - dockuwiki - A great wiki software
 
 ### Coding
+
+ - rust language - A decent funcional low level language ... 
  - react native - Imho one of the best ways to write multios apps for mobile at the moment
 
 ### Games
